@@ -23,7 +23,7 @@ function App() {
       <header className="App-header">
         <h1> Hello Vee</h1>
         <p> I love You </p>
-        <h2></h2>From the love of your life
+        <h2></h2>Bloom
         <ReactAnimatedWeather
     icon="CLEAR_DAY"
     color="goldenrod"
